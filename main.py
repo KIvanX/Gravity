@@ -10,7 +10,7 @@ class Object:
 
 pygame.init()
 window = pygame.display.set_mode((1200, 550))
-pygame.display.set_caption('Geonim')
+pygame.display.set_caption('Гравитация')
 Fon = pygame.image.load('Fon.jpg')
 Obj_fon = pygame.image.load('obj2.png')
 Boom = pygame.image.load('Boom.png')
